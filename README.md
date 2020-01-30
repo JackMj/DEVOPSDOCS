@@ -1,7 +1,8 @@
 # DEVOPSDOCS
 Devops documentation
+--------------------------------------
 
-#Creating a docker file
+Creating a docker file
 --------------------------------------
 
 #This is a sample Image 
